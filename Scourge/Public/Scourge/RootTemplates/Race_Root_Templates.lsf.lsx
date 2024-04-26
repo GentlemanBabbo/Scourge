@@ -52,6 +52,7 @@
 					<attribute id="ParentTemplateId" type="FixedString" value="6d69881e-1f59-4b76-83ce-68506277624c" />
 					<attribute id="Flag" type="int32" value="0" />
 					<attribute id="Icon" type="FixedString" value="d67bd924-3c1f-c33a-5298-feca5bbdc284-_(Icon_Elf_Female)" />
+					<attribute id="EquipmentRace" type="guid" value="47c0315c-7dc6-4862-b39b-8bf3a10f8b54" /> stronk armour set
 					<attribute id="Stats" type="FixedString" value="HeroElfFemale" /> dont change
 					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" /> dont change
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="68c99c8a-514d-4eed-a0c3-da43e38c2a8b" /> which models to load
@@ -90,6 +91,7 @@
 					<attribute id="ParentTemplateId" type="FixedString" value="a27b2b3e-db65-4aa4-ab7e-04c9435ae82b" />
 					<attribute id="Flag" type="int32" value="0" />
 					<attribute id="Icon" type="FixedString" value="f0c009b2-7868-784e-f2fc-dde5ac934aba-_(Icon_Elf_Male)" />
+					<attribute id="EquipmentRace" type="guid" value="e39505f7-f576-4e70-a99e-8e29cd381a11" />stronk armour set
 					<attribute id="Stats" type="FixedString" value="HeroElfMale" /> dont change
 					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" /> dont change
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="35d17f89-37db-4073-9ea8-5f94987aeb8c" /> which models to load
