@@ -1,0 +1,16 @@
+<!--------------------- Scourge Passives --------------------->
+
+new entry "ScourgeHidden_Passives"
+type "PassiveData"
+data "DisplayName" ""
+data "Description" ""
+data "DescriptionParams" "Distance(24)"
+data "Icon" "PassiveFeature_Darkvision"
+data "Properties" "Highlighted"
+data "Boosts" "ActionResource(Movement,9,0);DarkvisionRangeMin(12)"
+
+<!--------------------- Scourge Spells --------------------->
+
+<!--------------------- Behemoth Passives --------------------->
+
+<!--------------------- Behemoth Spells --------------------->

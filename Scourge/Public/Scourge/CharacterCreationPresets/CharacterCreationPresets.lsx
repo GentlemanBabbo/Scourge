@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+  <version major="4" minor="0" revision="0" build="47"/>
+  <region id="CharacterCreationPresets">
+    <node id="root">
+      <children>
+				<node id="CharacterCreationPreset">
+          <attribute id="BodyShape" type="uint8" value="1"/>
+          <attribute id="BodyType" type="uint8" value="1"/>
+          <attribute id="CloseUpA" type="LSString" value="HUM_FB_Camera_Closeup_A"/>
+          <attribute id="CloseUpB" type="LSString" value="HUM_FB_Camera_Closeup_B"/>
+          <attribute id="Overview" type="LSString" value="HUM_FB_Camera_Overview_A"/>
+          <attribute id="RaceUUID" type="guid" value="ebe6aa36-9bc5-4f70-a6d6-ec14149a1fa7"/>
+          <attribute id="RootTemplate" type="guid" value="58245e9c-6e8c-4e94-8088-f5117e32c764"/>
+					<attribute id="SubRaceUUID" type="guid" value="226d29ee-174c-4843-afbb-ab5cc1e72c37"/>
+          <attribute id="UUID" type="guid" value="53d11672-e7fd-4cb5-b784-07c8f07d29c7"/>
+          <attribute id="VOLinesTableUUID" type="guid" value="14df8f45-90af-4bd0-8024-42624da9976e"/>
+        </node>
+				<node id="CharacterCreationPreset">
+          <attribute id="BodyShape" type="uint8" value="1"/>
+          <attribute id="BodyType" type="uint8" value="0"/>
+          <attribute id="CloseUpA" type="LSString" value="HUM_MB_Camera_Closeup_A"/>
+          <attribute id="CloseUpB" type="LSString" value="HUM_MB_Camera_Closeup_B"/>
+          <attribute id="Overview" type="LSString" value="HUM_MB_Camera_Overview_A"/>
+          <attribute id="RaceUUID" type="guid" value="ebe6aa36-9bc5-4f70-a6d6-ec14149a1fa7"/>
+          <attribute id="RootTemplate" type="guid" value="54ed90a2-03ef-4063-a809-9ab5e49cec79"/>
+					<attribute id="SubRaceUUID" type="guid" value="226d29ee-174c-4843-afbb-ab5cc1e72c37"/>
+          <attribute id="UUID" type="guid" value="56f1886a-dfaa-4a7c-9177-32276bc0b0a8"/>
+          <attribute id="VOLinesTableUUID" type="guid" value="14df8f45-90af-4bd0-8024-42624da9976e"/>
+        </node>
+      </children>
+    </node>
+  </region>
+</save>
