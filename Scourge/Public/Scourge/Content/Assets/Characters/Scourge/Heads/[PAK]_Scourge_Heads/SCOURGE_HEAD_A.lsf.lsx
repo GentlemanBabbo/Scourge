@@ -7,7 +7,7 @@
 				<node id="Resource">
 					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
 					<attribute id="DynamicPhysicsResourceID" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
-					<attribute id="ID" type="FixedString" value="d8c02cd6-201a-4f1c-bb4b-5eafd243479d" />
+					<attribute id="ID" type="FixedString" value="8bd5ed26-4a4b-4f6e-8add-367e6d1e04d9" />
 					<attribute id="IKRigResourceID" type="FixedString" value="f45d73e2-c30a-82c0-2e4b-f02e907f9550" />
 					<attribute id="MirrorTableResourceID" type="FixedString" value="" />
 					<attribute id="Name" type="LSString" value="Scourge_M_Head_Base" />
@@ -1571,7 +1571,7 @@
 			<children>
 				<node id="Resource">
 					<attribute id="DiffusionProfileUUID" type="FixedString" value="" />
-					<attribute id="ID" type="FixedString" value="1595781a-ecf8-43dd-b9ca-bb6f787b2e9b" />
+					<attribute id="ID" type="FixedString" value="8e90e3a0-1268-4609-8489-13a54c33ed45" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="Colorable_Scourge_Skin_Head" />
                    	<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/CHAR_Skin_Head_v3.lsf" />
@@ -1838,7 +1838,7 @@
 						<node id="Base" />
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="83a135e4-b5a6-4ff8-93ae-6502278995be" />
+							<attribute id="MaterialID" type="FixedString" value="8e90e3a0-1268-4609-8489-13a54c33ed45" />
 							<attribute id="ObjectID" type="FixedString" value="Behemoth_M_Head_A.1DRIDER_Head_A_Mesh.0" />
 						</node>
 						<node id="Objects">
