@@ -13,6 +13,37 @@ data "Boosts" "ActionResource(Movement,9,0);DarkvisionRangeMin(24)"
 
 <!--------------------- Behemoth Passives --------------------->
 
+new entry "DevilsSight"
+type "PassiveData"
+data "DisplayName" "h5ecedc36gdf68g4529g820fgfc9269eb9f52;2"
+data "Description" "h4290e9c1ga5abg4f18g8243g7410a1457f60;2"
+data "DescriptionParams" "Distance(24)"
+data "Icon" "PassiveFeature_DevilsSight"
+data "Properties" "Highlighted"
+data "Boosts" "DarkvisionRangeMin(24);ActiveCharacterLight(c46e7ba8-e746-7020-5146-287474d7b9f7);StatusImmunity(BLINDED_DARKNESS);IgnoreSurfaceCover(SurfaceDarknessCloud)"
+
+new entry "FinishingStrike"
+type "PassiveData"
+data "DisplayName" "h91cc359bgd395g4009g9d4eg9a25fc7f7b33;1"
+data "Description" "h8c720c86g1f4dg4b78g8f17g2ef2b9754ceb;1"
+data "DescriptionParams" "DealDamage(1d6,Slashing); 50"
+data "Icon" "GenericIcon_DamageType_Physical"
+data "Properties" "Highlighted"
+data "StatsFunctorContext" "OnDamage"
+data "Conditions" "HasHPPercentageWithoutTemporaryHPLessThan(50, context.Target) and Character()"
+data "StatsFunctors" "DealDamage(1d6,Slashing)"
+
+new entry "DreamEater"
+type "PassiveData"
+data "DisplayName" "he2795876g074dg4615g8ee1g414f643136d8;1"
+data "Description" "hcbb36166gb0e2g4b12gbfa3g9bc01250fdd3;1"
+data "DescriptionParams" "DealDamage(1d6,Slashing)"
+data "Icon" "GenericIcon_DamageType_Physical"
+data "Properties" "Highlighted"
+data "StatsFunctorContext" "OnDamage"
+data "Conditions" "HasStatus(SLEEP) or HasStatus(SLEEPING) and Character()"
+data "StatsFunctors" "DealDamage(1d6,Slashing);RegainHitPoints(2d8)"
+
 <!--------------------- Behemoth Spells --------------------->
 
 new entry "Projectile_SuperNova_Behemoth"
