@@ -9,7 +9,7 @@
                   <attribute id="Name" type="LSString" value="Scourge" /> just an internal name
                   <attribute id="Boosts" type="LSString" value="" /> 
                   <attribute id="PassivesAdded" type="LSString" value="ScourgeHidden_Passives" /> passives from stats folder here
-                  <attribute id="Selectors" type="LSString" value="SelectSkills(acb8a23a-7763-46c6-8838-9385121c69bb,2)" />see below for explanation
+                  <attribute id="Selectors" type="LSString" value="AddSpells(4809989f-e624-4ad3-ac57-edfb02ee066d);SelectSkills(acb8a23a-7763-46c6-8838-9385121c69bb,2)" />see below for explanation
                   <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
                   <attribute id="TableUUID" type="guid" value="00e67e2e-c9f1-406b-a4b4-f278b2a058ac" /> Always use this one for races.lsx, says this progression node is for Main Race
                   <attribute id="UUID" type="guid" value="7092fd53-b346-438e-896d-e6f648101303" />  this one must be unique
