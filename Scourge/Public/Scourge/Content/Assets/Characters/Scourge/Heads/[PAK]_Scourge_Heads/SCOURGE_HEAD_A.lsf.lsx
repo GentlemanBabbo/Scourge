@@ -2048,20 +2048,6 @@
 							<attribute id="ID" type="FixedString" value="addd9eb9-5e5d-4142-b64d-1a0ed69cec04" /> CLEA
 							<attribute id="ParameterName" type="FixedString" value="CLEA" />
 						</node>
-						<node id="Texture2DParameters">
-							<attribute id="Enabled" type="bool" value="True" />
-							<attribute id="ExportAsPreset" type="bool" value="True" />
-							<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
-							<attribute id="ID" type="FixedString" value="b1b4f910-ff12-4c53-ab28-db65fc3288ef" />
-							<attribute id="ParameterName" type="FixedString" value="MakeUpAtlas" />
-						</node>
-						<node id="Texture2DParameters">
-							<attribute id="Enabled" type="bool" value="True" />
-							<attribute id="ExportAsPreset" type="bool" value="True" />
-							<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
-							<attribute id="ID" type="FixedString" value="505e82ee-ed64-05cc-aa31-ieatpaste666" />
-							<attribute id="ParameterName" type="FixedString" value="TattooAtlas" />
-						</node>
 						<node id="Vector3Parameters">
 							<attribute id="BaseValue" type="fvec3" value="0.85125166 0.101145156 0.0025858253" />
 							<attribute id="Enabled" type="bool" value="False" />
