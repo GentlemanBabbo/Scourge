@@ -19,6 +19,11 @@
                     <attribute id="Spells" type="LSString" value="Projectile_SleepRay"/> the spells within the selector
                     <attribute id="UUID" type="guid" value="0341fec6-1172-411f-91cc-3771942c4784"/> the UUID, needs to be unique
                 </node>
+                 <node id="SpellList">Spelllist 
+                    <attribute id="Comment" type="LSString" value=""/> 
+                    <attribute id="Spells" type="LSString" value="Projectile_Needles_Scourge"/> the spells within the selector
+                    <attribute id="UUID" type="guid" value="4809989f-e624-4ad3-ac57-edfb02ee066d"/> the UUID, needs to be unique
+                </node>
             </children>
         </node>
     </region>
