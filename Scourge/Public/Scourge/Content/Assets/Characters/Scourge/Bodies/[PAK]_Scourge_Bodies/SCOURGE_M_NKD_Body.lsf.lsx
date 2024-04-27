@@ -234,13 +234,6 @@
 						<node id="Texture2DParameters">
 							<attribute id="Enabled" type="bool" value="True" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
-							<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
-							<attribute id="ID" type="FixedString" value="dda30b14-3760-4015-b0f6-2b3a66dabe16" />
-							<attribute id="ParameterName" type="FixedString" value="MakeUpAtlas" />
-						</node>
-						<node id="Texture2DParameters">
-							<attribute id="Enabled" type="bool" value="True" />
-							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="" />
 							<attribute id="ID" type="FixedString" value="b9b98b2e-c132-479d-b3ee-841ba80f4485" />
 							<attribute id="ParameterName" type="FixedString" value="SMSK" />
@@ -282,7 +275,7 @@
 							<attribute id="Value" type="fvec2" value="4 5" />
 						</node>
 						<node id="Vector3Parameters">
-							<attribute id="BaseValue" type="fvec3" value="0.8512517 0.1011452 0.002585825" />
+							<attribute id="BaseValue" type="fvec3" value="0.85125166 0.101145156 0.0025858253" />
 							<attribute id="Enabled" type="bool" value="True" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="02 Colour" />
