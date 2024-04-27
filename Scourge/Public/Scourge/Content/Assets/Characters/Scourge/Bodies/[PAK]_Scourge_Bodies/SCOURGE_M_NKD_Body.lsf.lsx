@@ -602,7 +602,7 @@
 					<attribute id="ID" type="FixedString" value="b9b98b2e-c132-479d-b3ee-841ba80f4485" />
 					<attribute id="Name" type="LSString" value="BehemothSkin_SMSK" />
 					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Scourge/[PAK]_Scourge_Body/Scourge_Body/BehemothSkin_SMSK.DDS" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Scourge/[PAK]_Scourge_Body/Scourge_Body/ScourgeSkinSMSK.DDS" />
 					<attribute id="Streaming" type="bool" value="True" />
 					<attribute id="Template" type="FixedString" value="BehemothSkin_SMSK" />
 					<attribute id="Type" type="int32" value="1" />
@@ -615,7 +615,7 @@
 					<attribute id="ID" type="FixedString" value="eb83cfd0-03fe-4a09-979d-e2fdcac4e599" />
 					<attribute id="Name" type="LSString" value="BehemothSkin_GM" />
 					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Scourge/[PAK]_Scourge_Body/Scourge_Body/BehemothSkin_MSK.DDS" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Scourge/[PAK]_Scourge_Body/Scourge_Body/ScourgeSkinGM.DDS" />
 					<attribute id="Streaming" type="bool" value="True" />
 					<attribute id="Template" type="FixedString" value="BehemothSkin_MSK" />
 					<attribute id="Type" type="int32" value="1" />
@@ -628,7 +628,7 @@
 					<attribute id="ID" type="FixedString" value="22265cbf-b1fa-4d12-a872-b55d31c9a233" />
 					<attribute id="Name" type="LSString" value="BehemothSkin_MSK" />
 					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Scourge/[PAK]_Scourge_Body/Scourge_Body/BehemothSkin_MSK.DDS" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Scourge/[PAK]_Scourge_Body/Scourge_Body/ScourgeSkinMSK.DDS" />
 					<attribute id="Streaming" type="bool" value="True" />
 					<attribute id="Template" type="FixedString" value="BehemothSkin_MSK" />
 					<attribute id="Type" type="int32" value="1" />
@@ -641,7 +641,7 @@
 					<attribute id="ID" type="FixedString" value="c295e989-ac9a-4091-b706-941b9504fe6e" />
 					<attribute id="Name" type="LSString" value="BehemothSkin_BM" />
 					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Scourge/[PAK]_Scourge_Body/Scourge_Body/BehemothSkin_BM.DDS" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Scourge/[PAK]_Scourge_Body/Scourge_Body/ScourgeSkinBM.DDS" />
 					<attribute id="Streaming" type="bool" value="True" />
 					<attribute id="Template" type="FixedString" value="BehemothSkin_BM" />
 					<attribute id="Type" type="int32" value="1" />
@@ -654,7 +654,7 @@
 					<attribute id="ID" type="FixedString" value="addd9eb9-5e5d-4142-b64d-1a0ed69cec04" />
 					<attribute id="Name" type="LSString" value="BehemothSkin_CLEA" />
 					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Scourge/[PAK]_Scourge_Body/Scourge_Body/BehemothSkin_CLEA.DDS" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Scourge/[PAK]_Scourge_Body/Scourge_Body/ScourgeSkinCLEA.DDS" />
 					<attribute id="Streaming" type="bool" value="True" />
 					<attribute id="Template" type="FixedString" value="BehemothSkin_CLEA" />
 					<attribute id="Type" type="int32" value="1" />
@@ -667,7 +667,7 @@
 					<attribute id="ID" type="FixedString" value="fcee3b18-32e7-43b8-b0a9-7716c8e5c37f" />
 					<attribute id="Name" type="LSString" value="BehemothSkin_HMVY" />
 					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Scourge/[PAK]_Scourge_Body/Scourge_Body/BehemothSkin_HMVY.DDS" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Scourge/[PAK]_Scourge_Body/Scourge_Body/ScourgeSkinHMVY.DDS" />
 					<attribute id="Streaming" type="bool" value="True" />
 					<attribute id="Template" type="FixedString" value="BehemothSkin_HMVY" />
 					<attribute id="Type" type="int32" value="1" />
@@ -680,7 +680,7 @@
 					<attribute id="ID" type="FixedString" value="81cee33e-5e1e-459e-b395-5cb8a8fd6c01" />
 					<attribute id="Name" type="LSString" value="BehemothSkin_NM" />
 					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Scourge/[PAK]_Scourge_Body/Scourge_Body/BehemothSkin_NM.DDS" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Scourge/[PAK]_Scourge_Body/Scourge_Body/ScourgeSkinNM.DDS" />
 					<attribute id="Streaming" type="bool" value="True" />
 					<attribute id="Template" type="FixedString" value="BehemothSkin_NM" />
 					<attribute id="Type" type="int32" value="1" />
