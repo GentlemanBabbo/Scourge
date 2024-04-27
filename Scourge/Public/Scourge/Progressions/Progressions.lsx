@@ -28,11 +28,41 @@
                   <attribute id="Level" type="uint8" value="1" /> which level the progression is for
                   <attribute id="Name" type="LSString" value="Behemoth" /> just an internal name
                   <attribute id="Boosts" type="LSString" value="" /> 
-                  <attribute id="PassivesAdded" type="LSString" value="" /> passives from stats folder here
-                  <attribute id="Selectors" type="LSString" value="" /> you can add spells here
+                  <attribute id="PassivesAdded" type="LSString" value="DevilsSight" /> passives from stats folder here
+                  <attribute id="Selectors" type="LSString" value="AddSpells(0341fec6-1172-411f-91cc-3771942c4784)" /> you can add spells here
                   <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
                   <attribute id="TableUUID" type="guid" value="0a9da51a-cf6b-4169-bf0c-0ff48ae08a37" /> Always use this one for races.lsx, says this progression node is for Sub Race
                   <attribute id="UUID" type="guid" value="f844a2c6-78a2-40bb-98df-66b91b5520db" />  this one must be unique
+          </node>
+        <node id="Progression">
+                  <attribute id="Level" type="uint8" value="3" /> which level the progression is for
+                  <attribute id="Name" type="LSString" value="Behemoth" /> just an internal name
+                  <attribute id="Boosts" type="LSString" value="" /> 
+                  <attribute id="PassivesAdded" type="LSString" value="DreamEater" /> passives from stats folder here
+                  <attribute id="Selectors" type="LSString" value="AddSpells(f0789fa7-7bef-49b6-b535-3088bea7fe37)" /> you can add spells here
+                  <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
+                  <attribute id="TableUUID" type="guid" value="0a9da51a-cf6b-4169-bf0c-0ff48ae08a37" /> Always use this one for races.lsx, says this progression node is for Sub Race
+                  <attribute id="UUID" type="guid" value="6dc2c331-eaec-4fca-9de5-219bc172827d" />  this one must be unique
+          </node>
+        <node id="Progression">
+                  <attribute id="Level" type="uint8" value="5" /> which level the progression is for
+                  <attribute id="Name" type="LSString" value="Behemoth" /> just an internal name
+                  <attribute id="Boosts" type="LSString" value="" /> 
+                  <attribute id="PassivesAdded" type="LSString" value="" /> passives from stats folder here
+                  <attribute id="Selectors" type="LSString" value="AddSpells(d8b98967-45ab-494b-b387-11f4e9fae98b)" /> you can add spells here
+                  <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
+                  <attribute id="TableUUID" type="guid" value="0a9da51a-cf6b-4169-bf0c-0ff48ae08a37" /> Always use this one for races.lsx, says this progression node is for Sub Race
+                  <attribute id="UUID" type="guid" value="a4fa1318-3158-49d7-ba60-9fef772a45c9" />  this one must be unique
+          </node>
+        <node id="Progression">
+                  <attribute id="Level" type="uint8" value="7" /> which level the progression is for
+                  <attribute id="Name" type="LSString" value="Behemoth" /> just an internal name
+                  <attribute id="Boosts" type="LSString" value="" /> 
+                  <attribute id="PassivesAdded" type="LSString" value="FinishingStrike" /> passives from stats folder here
+                  <attribute id="Selectors" type="LSString" value="" /> you can add spells here
+                  <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
+                  <attribute id="TableUUID" type="guid" value="0a9da51a-cf6b-4169-bf0c-0ff48ae08a37" /> Always use this one for races.lsx, says this progression node is for Sub Race
+                  <attribute id="UUID" type="guid" value="f609876f-703c-4cff-997a-b1f9c7f0183d" />  this one must be unique
           </node>
       </children>
     </node>
