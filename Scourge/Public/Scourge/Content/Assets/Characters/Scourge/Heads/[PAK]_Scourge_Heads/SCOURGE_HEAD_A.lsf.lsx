@@ -2272,7 +2272,7 @@
 					<attribute id="Name" type="LSString" value="Scourge_Head_A" />
 					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
 					<attribute id="ScalpMaterialId" type="FixedString" value="" />
-					<attribute id="SkeletonResource" type="FixedString" value="658fd10c-b8b2-4e47-214e-959e591b6881" />
+					<attribute id="SkeletonResource" type="FixedString" value="6c7f8990-a611-9cab-2607-9130fa7fcc1b" />
 					<attribute id="SkeletonSlot" type="FixedString" value="1" />
 					<attribute id="Slot" type="FixedString" value="Head" />
 					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
