@@ -41,16 +41,11 @@
                         <attribute id="_OriginalFileVersion_" type="int64" value="144115205255725060" />
                         <children>
                             <node id="Base" />
-                						<node id="Objects">
-                							<attribute id="LOD" type="uint8" value="0" />
-                							<attribute id="MaterialID" type="FixedString" value="f10434eb-525b-f3b7-bbc2-88f11c560b3b" />
-                							<attribute id="ObjectID" type="FixedString" value="Behemoth_M_Beard_A.BEARD_GTY_M_Orpheus_Mesh.0" />
-                						</node>
-                						<node id="Objects">
-                							<attribute id="LOD" type="uint8" value="0" />
-                							<attribute id="MaterialID" type="FixedString" value="58787e73-7b1c-fe5a-f274-561543842ff5" />
-                							<attribute id="ObjectID" type="FixedString" value="Behemoth_M_Beard_A.BEARD_GTY_M_Orpheus_Beardornament_Mesh.1" />
-                						</node>
+                		<node id="Objects">
+	                		<attribute id="LOD" type="uint8" value="0" />
+	                		<attribute id="MaterialID" type="FixedString" value="f10434eb-525b-f3b7-bbc2-88f11c560b3b" />
+	                		<attribute id="ObjectID" type="FixedString" value="Behemoth_M_Beard_A.BEARD_GTY_M_Orpheus_Mesh.0" />
+                		</node>
                         </children>
                     </node>
 		</children>
