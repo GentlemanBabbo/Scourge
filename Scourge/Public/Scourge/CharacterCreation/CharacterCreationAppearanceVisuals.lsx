@@ -35,18 +35,6 @@
 					<attribute id="VisualResource" type="guid" value="061bf3d6-10a4-7772-7bd2-f0008850a73f"/>
 					<!--^ This UUID must match the one in the head merged.lsf or the custom name you give it-->
 				</node>
-				<node id="CharacterCreationAppearanceVisual"> Scourge - B
-					<attribute id="BodyShape" type="uint8" value="0"/> <!--0 = Standard 1 = Tall Muscular -->
-					for Dragonborn and Half-Orcs even though they use Tall Muscular bodyshape this value needs to be 0
-					<attribute id="BodyType" type="uint8" value="0"/> <!--0 = Masc 1 = Fem -->
-			                <attribute id="DisplayName" type="TranslatedString" handle="" version="1"/> 
-					<attribute id="IconIdOverride" type="FixedString" value=""/><!-- Matches the Map Key for the corresponding icon in ModName_Icons.lsx - I usually just take the hair's VisualResource UUID and stick a 0_Hair_ in front of it -->
-                    			<attribute id="RaceUUID" type="guid" value="ebe6aa36-9bc5-4f70-a6d6-ec14149a1fa7"/>
-					<attribute id="SlotName" type="FixedString" value="Beard"/>
-					<attribute id="UUID" type="guid" value="355f071c-a649-4d1d-a7a3-dfd6ad2f972a"/> <!--Unique UUID -->
-					<attribute id="VisualResource" type="guid" value="8ca98fab-5e05-4393-bc3c-46dc5d103e95"/>
-					<!--^ This UUID must match the one in the head merged.lsf or the custom name you give it-->
-				</node>
 		<!--Hair-->
 
 		                <node id="CharacterCreationAppearanceVisual">
