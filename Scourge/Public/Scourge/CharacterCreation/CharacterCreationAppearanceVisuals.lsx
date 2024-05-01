@@ -56,7 +56,7 @@
 							<attribute id="IconIdOverride" type="FixedString" value="0_Hair_cb44843d-2cb5-4a25-b144-b786843fa065"/>
 		                    <attribute id="RaceUUID" type="guid" value="ebe6aa36-9bc5-4f70-a6d6-ec14149a1fa7"/>
 		                    <attribute id="SlotName" type="FixedString" value="Hair"/>
-		                    <attribute id="UUID" type="guid" value="0ea432dc-dfd1-40ee-8fe3-bbcb33b36251"/>
+		                    <attribute id="UUID" type="guid" value="b384047a-3d59-464c-8ab3-890498133370"/>
 		                    <attribute id="VisualResource" type="guid" value="5ec873bb-3c93-40ac-b525-ff653329c617"/>
 		                </node>
 		                <node id="CharacterCreationAppearanceVisual">
@@ -66,7 +66,7 @@
 							<attribute id="IconIdOverride" type="FixedString" value="0_Hair_50efab2e-9e10-4924-9ee6-bfc36d02ed14"/>
 		                    <attribute id="RaceUUID" type="guid" value="ebe6aa36-9bc5-4f70-a6d6-ec14149a1fa7"/>
 		                    <attribute id="SlotName" type="FixedString" value="Hair"/>
-		                    <attribute id="UUID" type="guid" value="a4f8cf07-b711-4036-97b1-04177a161cdd"/>
+		                    <attribute id="UUID" type="guid" value="522541b9-1d1a-4a0d-b1c0-98cd0de3c318"/>
 		                    <attribute id="VisualResource" type="guid" value="4590b3d6-e37f-4bd7-a861-674a0287475f"/>
 		                </node>
 		                <node id="CharacterCreationAppearanceVisual">
@@ -76,7 +76,7 @@
 							<attribute id="IconIdOverride" type="FixedString" value="0_Hair_10ad1435-c7c3-4db8-a015-f5863218ffb2"/>
 		                    <attribute id="RaceUUID" type="guid" value="ebe6aa36-9bc5-4f70-a6d6-ec14149a1fa7"/>
 		                    <attribute id="SlotName" type="FixedString" value="Hair"/>
-		                    <attribute id="UUID" type="guid" value="3eeb584f-d4c5-43df-af50-801d0ed8a0d8"/>
+		                    <attribute id="UUID" type="guid" value="dd1d38be-43fe-43e5-ad13-452b3f8f2b27"/>
 		                    <attribute id="VisualResource" type="guid" value="0287edb6-f81f-4b3f-80cd-2a664389c974"/>
 		                </node>
         <!--Fake Genitals-->
