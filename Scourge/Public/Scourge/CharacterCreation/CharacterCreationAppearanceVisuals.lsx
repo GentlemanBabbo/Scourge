@@ -38,7 +38,7 @@
 		<!--Hair-->
 
 		                <node id="CharacterCreationAppearanceVisual">
-		                    <attribute id="BodyShape" type="uint8" value="1"/>
+		                    <attribute id="BodyShape" type="uint8" value="0"/>
 		                    <attribute id="BodyType" type="uint8" value="0"/>
 		                    <attribute id="DisplayName" type="TranslatedString" handle="f8a41e02-176b-46c0-83fb-5b15ad98ba4c" version="1"/>
 							<attribute id="IconIdOverride" type="FixedString" value="0_Hair_cb44843d-2cb5-4a25-b144-b786843fa065"/>
@@ -48,7 +48,7 @@
 		                    <attribute id="VisualResource" type="guid" value="5ec873bb-3c93-40ac-b525-ff653329c617"/>
 		                </node>
 		                <node id="CharacterCreationAppearanceVisual">
-		                    <attribute id="BodyShape" type="uint8" value="1"/>
+		                    <attribute id="BodyShape" type="uint8" value="0"/>
 		                    <attribute id="BodyType" type="uint8" value="0"/>
 		                    <attribute id="DisplayName" type="TranslatedString" handle="8ac70ddd-baea-402a-837c-5ed89042b7fb" version="1"/>
 							<attribute id="IconIdOverride" type="FixedString" value="0_Hair_50efab2e-9e10-4924-9ee6-bfc36d02ed14"/>
@@ -58,7 +58,7 @@
 		                    <attribute id="VisualResource" type="guid" value="4590b3d6-e37f-4bd7-a861-674a0287475f"/>
 		                </node>
 		                <node id="CharacterCreationAppearanceVisual">
-		                    <attribute id="BodyShape" type="uint8" value="1"/>
+		                    <attribute id="BodyShape" type="uint8" value="0"/>
 		                    <attribute id="BodyType" type="uint8" value="0"/>
 		                    <attribute id="DisplayName" type="TranslatedString" handle="9a8bc0da-74bf-440b-b20b-ac3b133c826a" version="1"/>
 							<attribute id="IconIdOverride" type="FixedString" value="0_Hair_10ad1435-c7c3-4db8-a015-f5863218ffb2"/>
